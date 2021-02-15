@@ -14,7 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
       // TODO: Get the array of movies
       // TODO: Store the movies in a property to use elsewhere
-      TODO: Reload your table view data
+      // TODO: Reload your table view data
       }
     }
     task.resume()
@@ -37,6 +37,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="YOUR_GIF_URL_HERE" width=250><br> <img src="YOUR_GIF_URL_HERE" width=250><br> <img src="YOUR_GIF_URL_HERE" width=250><br>
